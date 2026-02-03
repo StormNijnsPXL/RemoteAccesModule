@@ -1,1 +1,3 @@
-print("init")
+return function()
+	print("init")
+end
